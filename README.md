@@ -1,39 +1,23 @@
-# Сервис доставки еды 🍔📦
+# Food Delivery Service Project
 
-## 📖 Описание проекта
-Проект демонстрирует полный цикл разработки сервиса доставки еды, включая:
-- Блок-схемы процессов
-- Диаграммы последовательности
-- UML диаграммы классов
-- ER-диаграмму базы данных
-- User Journey клиента
-- Диаграмму Ганта для разработки проекта
+This repository contains diagrams and documentation for the Food Delivery Service project.
 
-Все диаграммы выполнены с использованием **Mermaid**.
+## Diagrams
 
----
+### Main Project
+- [Class Diagram](/Food%20Delivery%20Service/classDiagram.md)
+- [ER Diagram](/Food%20Delivery%20Service/erDiagram.md)
+- [Flowchart](/Food%20Delivery%20Service/flowchart%20TD.md)
+- [Gantt Chart](/Food%20Delivery%20Service/gantt.md)
+- [User Journey](/Food%20Delivery%20Service/journey.md)
+- [Sequence Diagram](/Food%20Delivery%20Service/sequenceDiagram.md)
 
-## Список диаграмм
-
-1. [Диаграмма последовательности](sequenceDiagram_two.md)
-2. [Диаграмма классов](classDiagram_two.md)
-3. [ER-диаграмма базы данных](erDiagram_two.md)
-4. [User Journey клиента](journey_two.md)
-5. [Диаграмма состояний](stateDiagram-v2_two.md)
-6. [Диаграмма Ганта разработки проекта](gantt_two.md)
-7. [Чайная диаграмма (Пример уровня 1)](tea_diagram_two.md)
-
-
-## 📑 Оглавление папки Сервис доставки еды
-1. [Диаграмма последовательности](sequenceDiagram.md)
-2. [Диаграмма классов](classDiagram.md)
-3. [ER-диаграмма базы данных](erDiagram.md)
-4. [User Journey клиента](journey.md)
-5. [Диаграмма состояний](stateDiagram-v2.md)
-6. [Диаграмма Ганта разработки проекта](gantt.md)
-7. [Чайная диаграмма (Пример уровня 1)](tea_diagram.md)
-
----
-
-✅ Все диаграммы Mermaid вынесены в отдельные файлы.  
-Для просмотра на GitHub используйте встроенный Markdown-превью, либо VS Code с расширением **Markdown Preview Mermaid Support**.
+### Work Folder
+- [Class Diagram](Work/classDiagram_two.md)
+- [ER Diagram](Work/erDiagram_two.md)
+- [Gantt Chart](Work/gantt_two.md)
+- [Graph](Work/grah_two.md)
+- [User Journey](Work/journey_two.md)
+- [Sequence Diagram](Work/sequenceDiagram_two.md)
+- [State Diagram](Work/stateDiagram-v2_two.md)
+- [Tea Diagram](Work/tea_diagram_two.md)
